@@ -1,0 +1,30 @@
+<div class="carousel-item">
+  <img src="media/slider/13.jpeg" class="img-fluid">
+</div>
+<div class="carousel-item">
+  <img src="media/slider/14.jpeg" class="img-fluid">
+</div>
+<div class="carousel-item">
+  <img src="media/slider/15.jpeg" class="img-fluid">
+</div>
+<div class="carousel-item">
+  <img src="media/slider/16.jpeg" class="img-fluid">
+</div>
+<div class="carousel-item">
+  <img src="media/slider/17.jpeg" class="img-fluid">
+</div>
+<div class="carousel-item">
+  <img src="media/slider/18.jpeg" class="img-fluid">
+</div>
+<div class="carousel-item">
+  <img src="media/slider/19.jpeg" class="img-fluid">
+</div>
+<div class="carousel-item">
+  <img src="media/slider/20.jpeg" class="img-fluid">
+</div>
+<div class="carousel-item">
+  <img src="media/slider/21.jpeg" class="img-fluid">
+</div>
+<div class="carousel-item">
+  <img src="media/slider/22.jpeg" class="img-fluid">
+</div>

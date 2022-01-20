@@ -124,6 +124,25 @@ footer {
     padding-top:10px;
 }
 
+.signature {
+    color: rgb(161, 156, 156);
+    font-size: 0.8em;
+}
+
+.signature p{
+    margin-bottom: 0.2em;
+}
+
+.signature a{
+    margin-bottom: 0.2em;
+    text-decoration: none;
+    color: rgb(161, 156, 156);
+}
+
+.signature a:hover{
+    color: rgb(107, 103, 103);
+}
+
 
 
 
